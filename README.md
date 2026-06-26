@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Yashwanthtr17/Yashwanthtr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>26-06-2026</h4>
 
-Here are some ideas to get you started:
+I completed a course on the **12-Factor App **, where I learned the best practices for building, deploying, and maintaining modern applications. The course gave me a solid understanding of how to create applications that are reliable, scalable, easy to maintain, and less likely to experience errors or crashes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During the course, I learned the following 12 methodology:
+
+1. Codebase
+2. Dependencies
+3. Configuration (Config)
+4. Backing Services
+5. Build, Release, Run
+6. Processes
+7. Port Binding
+8. Concurrency
+9. Disposability
+10. Development/Production Parity
+11. Logs
+12. Admin Processes
+
+These methodologies taught me how to organize application code, manage dependencies and configuration, work with external services, handle deployments, scale applications, improve reliability, monitor application behavior through logs, and perform administrative tasks efficiently. Overall, the course strengthened my understanding of developing and maintaining production-ready applications using industry best practices.
