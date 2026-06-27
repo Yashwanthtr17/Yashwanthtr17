@@ -23,3 +23,7 @@ These methodologies taught me how to organize application code, manage dependen
 
 <h4>27-06-2026</h4>
 Started python3 basics course on KodeKloud excited to learn ,because i am shifting Java toughest syntax to Python biginner friendly language ,so i am thinking its easy to learn.
+
+<h4></h4>28-06-2026</h4>
+</h4>Enrolled PCEP-30-xx Certified Entry-Level Python Programmer Certification</h4>
+--> Completed Python topics : Functions,Literals,Variables,Comments,Inputs,String Methods,Comparision Operators.
