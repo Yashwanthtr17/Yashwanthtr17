@@ -21,5 +21,5 @@ During the course, I learned the following 12 methodology:
 
 These methodologies taught me how to organize application code, manage dependencies and configuration, work with external services, handle deployments, scale applications, improve reliability, monitor application behavior through logs, and perform administrative tasks efficiently. Overall, the course strengthened my understanding of developing and maintaining production-ready applications using industry best practices.
 
-<h4>26-06-2026</h4>
-Started python3 course on KodeKloud excited to learn ,because i am shifting Java toughest syntax to Python biginner friendly language ,so i am thinking its easy to learn.
+<h4>27-06-2026</h4>
+Started python3 basics course on KodeKloud excited to learn ,because i am shifting Java toughest syntax to Python biginner friendly language ,so i am thinking its easy to learn.
