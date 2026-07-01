@@ -29,3 +29,6 @@ Enrolled <b>PCEP-30-xx Certified Entry-Level Python Programmer Certification</b>
 --> Completed python topics : Functions arguments,return ststements,list as Arguments,scopes, Dictionaries,tuples,Errors and Exceptions,Heirarchy of Exception. <br>
 --> Completed python topics : Completed Raise and Assert in try catch concepts. <br>
 <h4>Completed PCEP-30-xx Certified Entry-Level Python Programmer Certification on Kode Kloud on 01-07-2026</h4><br>
+
+<h4>02-07-2026</h4>
+Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
