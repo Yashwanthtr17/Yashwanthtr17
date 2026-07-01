@@ -27,3 +27,4 @@ Enrolled <b>PCEP-30-xx Certified Entry-Level Python Programmer Certification</b>
 --> Completed Python topics : Functions,Literals,Variables,Comments,Inputs,String Methods,Comparision Operators.<br>
 --> Completed python topics : Conditional Statements, Loops, Logics and Bit operators, Lists,Lists Methods, Nested Lists,2D Lists,3D Lists.<br>
 --> Completed python topics : Functions arguments,return ststements,list as Arguments,scopes, Dictionaries,tuples,Errors and Exceptions,Heirarchy of Exception. <br>
+--> Completed python topics : Completed Raise and Assert in try catch concepts. <br>
