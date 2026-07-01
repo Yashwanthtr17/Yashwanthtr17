@@ -28,3 +28,4 @@ Enrolled <b>PCEP-30-xx Certified Entry-Level Python Programmer Certification</b>
 --> Completed python topics : Conditional Statements, Loops, Logics and Bit operators, Lists,Lists Methods, Nested Lists,2D Lists,3D Lists.<br>
 --> Completed python topics : Functions arguments,return ststements,list as Arguments,scopes, Dictionaries,tuples,Errors and Exceptions,Heirarchy of Exception. <br>
 --> Completed python topics : Completed Raise and Assert in try catch concepts. <br>
+<h4>Completed PCEP-30-xx Certified Entry-Level Python Programmer Certification on Kode Kloud on 01-07-2026</h4><br>
