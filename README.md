@@ -32,3 +32,4 @@ Enrolled <b>PCEP-30-xx Certified Entry-Level Python Programmer Certification</b>
 
 <h4>02-07-2026</h4>
 Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
+-->Learnt about tools required for DevOps,use of CICD pipeline,tools used to automate the task form code to production(Deploy).<br>
