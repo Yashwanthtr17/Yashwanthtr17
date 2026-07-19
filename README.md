@@ -34,3 +34,4 @@ Enrolled <b>PCEP-30-xx Certified Entry-Level Python Programmer Certification</b>
 Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
 <h6></h6>
 -->Learnt about tools required for DevOps,use of CICD pipeline,tools used to automate the task form code to production(Deploy), Contribution of tools and techonologies like Terraform,github,Jenkins,Docker,Kubernetes,Terraform,Ansible,Prometheus,Grafana to Automate and monitor the workflow.<br>
+--> Completed Commands on Directories,Commands on files, VIM editors,Download files, RPM  basic commands, YUM package manager basic commands ,Services in Linux.<br>
