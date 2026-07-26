@@ -36,4 +36,6 @@ Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
 -->Learnt about tools required for DevOps,use of CICD pipeline,tools used to automate the task form code to production(Deploy), Contribution of tools and techonologies like Terraform,github,Jenkins,Docker,Kubernetes,Terraform,Ansible,Prometheus,Grafana to Automate and monitor the workflow.<br>
 --> Completed Commands on Directories,Commands on files, VIM editors,Download files, RPM  basic commands, YUM package manager basic commands ,Services in Linux.<br>
 --> Completed Networking Basics which includes Switching,Routers, some related commands,Domain Name System,tee -a /etc/hosts or /etc/resolv.conf and more</br>
---> Completed the topics in Application basics which includes Java,nodejs,python, and Ant,npm,apt,yum,pip,rpm packages management commands i learnt.
+--> Completed the topics in Application basics which includes Java,nodejs,python, and Ant,npm,apt,yum,pip,rpm packages management commands i learnt.</br>
+--> Completed the Source Control Management Git and Github basic commands to know how to pull,push,commit,stageing and more++</br>
+
