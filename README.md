@@ -38,4 +38,6 @@ Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
 --> Completed Networking Basics which includes Switching,Routers, some related commands,Domain Name System,tee -a /etc/hosts or /etc/resolv.conf and more</br>
 --> Completed the topics in Application basics which includes Java,nodejs,python, and Ant,npm,apt,yum,pip,rpm packages management commands i learnt.</br>
 --> Completed the Source Control Management Git and Github basic commands to know how to pull,push,commit,stageing and more++</br>
+--> Completed Web Servers Topics Application Types,Standalone and client Server Model,Web Frameworks,Apache Webservers,Python deploy flask app, Ip and ports</br>
+
 
