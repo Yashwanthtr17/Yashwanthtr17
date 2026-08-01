@@ -39,5 +39,7 @@ Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
 --> Completed the topics in Application basics which includes Java,nodejs,python, and Ant,npm,apt,yum,pip,rpm packages management commands i learnt.</br>
 --> Completed the Source Control Management Git and Github basic commands to know how to pull,push,commit,stageing and more++</br>
 --> Completed Web Servers Topics Application Types,Standalone and client Server Model,Web Frameworks,Apache Webservers,Python deploy flask app, Ip and ports</br>
---> Completed Database basics which includes sql and No sql how to install through terminal and how to start service using systemctl,and managing root privilages,adding users , Granting permissions.
+--> Completed Database basics which includes sql and No sql how to install through terminal and how to start service using systemctl,and managing root privilages,adding users , Granting permissions.</br>
+--> completed Understanding of Transport Layer security and Secure Socket Layer From the browser through internet to server.</br>
+
 
