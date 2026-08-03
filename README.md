@@ -41,6 +41,6 @@ Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
 --> Completed Web Servers Topics Application Types,Standalone and client Server Model,Web Frameworks,Apache Webservers,Python deploy flask app, Ip and ports</br>
 --> Completed Database basics which includes sql and No sql how to install through terminal and how to start service using systemctl,and managing root privilages,adding users , Granting permissions.</br>
 --> completed Understanding of Transport Layer security and Secure Socket Layer From the browser through internet to server.</br>
---> Completed basic understanding of YAML and JSON , JSON PATH and criterias, JSON PATH dictionalry and lists.</br>
+--> Completed General Pre-Requisite basic understanding of YAML and JSON , JSON PATH and criterias, JSON PATH dictionalry and lists.</br>
 
 
