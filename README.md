@@ -44,4 +44,4 @@ Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
 --> Completed General Pre-Requisite basic understanding of YAML and JSON , JSON PATH and criterias, JSON PATH dictionalry and lists.</br>
 --> Completed Deployment of 2 tier application kodekloud ecommerce using php ,mariadb ,apache webserver, created to servers one for DATABASE host called db and another for WEBROWSER called web and Connected both together in index.php file by configuring ip of servers and started service using apache (httpd). And in 2nd lab configured and started service in the same host , host called host01</br>
 --> Completed Setup of Oracle Virtual Box, and used osboxes images which are preConfigured Virtual Machines ,OS and all packages are available, cloned and created multiple virtual boxes.</br>
-<h4> Completed DevOps Pre-Requisite On KodeKloud, Instructor Mumshad Mannambeth</h4></br>
+<h4> Completed DevOps Pre-Requisite On KodeKloud, Instructor Mumshad Mannambeth On 07-08-2026</h4></br>
