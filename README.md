@@ -31,7 +31,7 @@ Enrolled <b>PCEP-30-xx Certified Entry-Level Python Programmer Certification</b>
 <h4>Completed PCEP-30-xx Certified Entry-Level Python Programmer Certification on Kode Kloud on 01-07-2026</h4><br>
 
 <h4>==>02-07-2026</h4>
-Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
+Enrolled <b>DevOps Pre-Requisite</b> Course on KodeKloud<br>
 <h6></h6>
 -->Learnt about tools required for DevOps,use of CICD pipeline,tools used to automate the task form code to production(Deploy), Contribution of tools and techonologies like Terraform,github,Jenkins,Docker,Kubernetes,Terraform,Ansible,Prometheus,Grafana to Automate and monitor the workflow.<br>
 --> Completed Commands on Directories,Commands on files, VIM editors,Download files, RPM  basic commands, YUM package manager basic commands ,Services in Linux.<br>
@@ -45,3 +45,8 @@ Enrolled <b>DevOps Pre-Requisite</b> Course on Kode Kloud<br>
 --> Completed Deployment of 2 tier application kodekloud ecommerce using php ,mariadb ,apache webserver, created to servers one for DATABASE host called db and another for WEBROWSER called web and Connected both together in index.php file by configuring ip of servers and started service using apache (httpd). And in 2nd lab configured and started service in the same host , host called host01</br>
 --> Completed Setup of Oracle Virtual Box, and used osboxes images which are preConfigured Virtual Machines ,OS and all packages are available, cloned and created multiple virtual boxes.</br>
 <h4> Completed DevOps Pre-Requisite On KodeKloud, Instructor Mumshad Mannambeth On 07-08-2026</h4></br>
+
+<h4>==>09-08-2026</h4>
+Enrolled <B>Fundamentals of DevOps</B> course on KodeKloud on 08-08-2026</br>
+<h6></h6>
+--> Completed 
