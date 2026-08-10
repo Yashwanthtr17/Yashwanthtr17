@@ -41,7 +41,7 @@ Enrolled <b>DevOps Pre-Requisite</b> Course on KodeKloud<br>
 --> Completed Web Servers Topics Application Types,Standalone and client Server Model,Web Frameworks,Apache Webservers,Python deploy flask app, Ip and ports</br>
 --> Completed Database basics which includes sql and No sql how to install through terminal and how to start service using systemctl,and managing root privilages,adding users , Granting permissions.</br>
 --> completed Understanding of Transport Layer security and Secure Socket Layer From the browser through internet to server.</br>
---> Completed General Pre-Requisite basic understanding of YAML and JSON , JSON PATH and criterias, JSON PATH dictionalry and lists.</br>
+--> Completed General Pre-Requisite basic understanding of YAML and JSON , JSON PATH and criteria's, JSON PATH dictionary and lists.</br>
 --> Completed Deployment of 2 tier application kodekloud ecommerce using php ,mariadb ,apache webserver, created to servers one for DATABASE host called db and another for WEBROWSER called web and Connected both together in index.php file by configuring ip of servers and started service using apache (httpd). And in 2nd lab configured and started service in the same host , host called host01</br>
 --> Completed Setup of Oracle Virtual Box, and used osboxes images which are preConfigured Virtual Machines ,OS and all packages are available, cloned and created multiple virtual boxes.</br>
 <h4> Completed DevOps Pre-Requisite On KodeKloud, Instructor Mumshad Mannambeth On 07-08-2026</h4></br>
@@ -49,4 +49,4 @@ Enrolled <b>DevOps Pre-Requisite</b> Course on KodeKloud<br>
 <h4>==>09-08-2026</h4>
 Enrolled <B>Fundamentals of DevOps</B> course on KodeKloud on 08-08-2026</br>
 <h6></h6>
---> Completed 
+--> Completed what is DevOps and why, Anti Patterns of DevOps, People with shared values,DevOps anti types Topology, DevOps Team Topology, Process like automation and why,Testers scenario,Lean Remove waste deluiver value faster(LEAN Practises),Product Manager work,Collaboration and info radiation, phases of development with DevSecOps involvement. 
