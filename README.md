@@ -49,4 +49,5 @@ Enrolled <b>DevOps Pre-Requisite</b> Course on KodeKloud<br>
 <h4>==>09-08-2026</h4>
 Enrolled <B>Fundamentals of DevOps</B> course on KodeKloud on 08-08-2026</br>
 <h6></h6>
---> Completed what is DevOps and why, Anti Patterns of DevOps, People with shared values,DevOps anti types Topology, DevOps Team Topology, Process like automation and why,Testers scenario,Lean Remove waste deluiver value faster(LEAN Practises),Product Manager work,Collaboration and info radiation, phases of development with DevSecOps involvement. 
+--> Completed what is DevOps and why, Anti Patterns of DevOps, People with shared values,DevOps anti types Topology, DevOps Team Topology, Process like automation and why,Testers scenario,Lean Remove waste deluiver value faster(LEAN Practises),Product Manager work,Collaboration and info radiation, phases of development with DevSecOps involvement. </br>
+--> Completed Product/Technology:- DORA's 4 metrics, Understands quality of service, Node stability , Identifying root cause of errors.</br> 
