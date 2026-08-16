@@ -52,4 +52,4 @@ Enrolled <B>Fundamentals of DevOps</B> course on KodeKloud on 08-08-2026</br>
 --> Completed what is DevOps and why, Anti Patterns of DevOps, People with shared values,DevOps anti types Topology, DevOps Team Topology, Process like automation and why,Testers scenario,Lean Remove waste deluiver value faster(LEAN Practises),Product Manager work,Collaboration and info radiation, phases of development with DevSecOps involvement. </br>
 --> Completed Product/Technology:- DORA's 4 metrics, Understands quality of service, Node stability , Identifying root cause of errors.</br> 
 --> Completed and Learnt about Technology patterns used to develop like CICD,IaaS,Containerization,Container orchestration and Technology patterns old to new like Continuous Integration ,delivery,deployment,microservices,GitOps,Platform engineer and Value of DevOps.</br>
-<h4> Completed Fundamentals of DevOps On KodeKloud, Instructor On 16-08-2026</h4></br>
+<h4> Completed Fundamentals of DevOps On KodeKloud, Instructor Michael Forrester On 16-08-2026</h4></br>
