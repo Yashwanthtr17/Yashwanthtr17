@@ -8,7 +8,7 @@ During the course, I learned the following 12 methodology:
 
 1. Codebase
 2. Dependencies
-3. Configuration (Config)
+3. Configuration (Config) 
 4. Backing Services
 5. Build, Release, Run
 6. Processes
