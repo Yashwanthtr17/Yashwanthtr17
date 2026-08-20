@@ -57,4 +57,4 @@ Enrolled <B>Fundamentals of DevOps</B> course on KodeKloud on 08-08-2026</br>
 <h4>==>17-08-2026</h4>
 Enrolled <b>Shell Scripts for beginners</b> Course on KodeKloud<br>
 <h6></h6>
--->
+-->Completed lessons Why shell scripts,creating a missions using rocket-commands like rocket-ls, rocket-add rocket-start-power till rocket-lift-off and created a bash file for automating the tasks and Runs scripts as a command using bash command etc... , and Created my own BASH Script On creating directory and storing the information and files in those directories.
