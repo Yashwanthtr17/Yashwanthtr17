@@ -58,3 +58,4 @@ Enrolled <B>Fundamentals of DevOps</B> course on KodeKloud on 08-08-2026</br>
 Enrolled <b>Shell Scripts for beginners</b> Course on KodeKloud<br>
 <h6></h6>
 -->Completed lessons Why shell scripts,creating a missions using rocket-commands like rocket-ls, rocket-add rocket-start-power till rocket-lift-off and created a bash file for automating the tasks and Runs scripts as a command using bash command etc... , and Created my own BASH Script On creating directory and storing the information and files in those directories.</br>
+-->Completed topic variables to store a value or name of mission to change the mission name in one command line insted of changing all places by specifing mission_name=lunar-mission when ccalling mkdir $mission_name rocket-lift-off $mission_name etc.... and Learnt passing value form the command line argument note $1 $2 etc mentioned in file , and "read -p"command in file for taking mission name from cli.
