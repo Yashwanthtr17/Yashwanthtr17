@@ -63,3 +63,4 @@ Enrolled <b>Shell Scripts for beginners</b> Course on KodeKloud<br>
 --> Completed Case statements in Shell Scripting performed basic calculator and getting input from CLI and performed task as per CLI input, Learnt SHEBANG which tells to running bourne shell scripts running in bash by modifying in file #!/bin/bash
 -->Completed and learnt about exit codes , which helps to identify the "SUCCESS" and "FAILURES" of the scripts.
 --> Completed the FUNCTIONS in shell Script performed Addition , Division etc... operations using functions and launching of multiple tasks and rockets using functions.
+--> Revised all the Topics of Shell Script course to build a shell script project.
