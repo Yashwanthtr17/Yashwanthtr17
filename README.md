@@ -65,3 +65,8 @@ Enrolled <b>Shell Scripts for beginners</b> Course on KodeKloud<br>
 --> Completed the FUNCTIONS in shell Script performed Addition , Division etc... operations using functions and launching of multiple tasks and rockets using functions and understand some utilitis like shellcheck for finding bugs errors in our Shell scripts.</br>
 --> Revised all the Topics of Shell Script course to build a shell script project.</br>
 <h4> Completed Shell Scripts for Beginners On KodeKloud, Instructor Mumshad Mannambeth and Vijin Palazhi On 28-08-2026</h4></br>
+
+<h4>==>30-08-2026</h4></br>
+Enrolled <b>GIT For Beginners</b> Course on KodeKloud<br>
+<h6></h6>
+--> 
