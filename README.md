@@ -66,7 +66,7 @@ Enrolled <b>Shell Scripts for beginners</b> Course on KodeKloud<br>
 --> Revised all the Topics of Shell Script course to build a shell script project.</br>
 <h4> Completed Shell Scripts for Beginners On KodeKloud, Instructor Mumshad Mannambeth and Vijin Palazhi On 28-08-2026</h4></br>
 
-<h4>==>30-08-2026</h4></br>
+<h4>==>30-08-2026</h4>
 Enrolled <b>GIT For Beginners</b> Course on KodeKloud<br>
 <h6></h6>
 --> 
