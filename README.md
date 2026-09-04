@@ -69,4 +69,7 @@ Enrolled <b>Shell Scripts for beginners</b> Course on KodeKloud<br>
 <h4>==>30-08-2026</h4>
 Enrolled <b>Learning Linux Basics Course & Labs</b> Course on KodeKloud<br>
 <h6></h6>
---> 
+--> Completed basic commands and arguments,commandline help, shell types,bash prompts like ((echo 'alias ll="ls -l"' >>~/.profile)) </br>
+--> Completed Linux kernel and some hardware commands lspci,lscpu,lshw,lsblk , and setting up graphical an default targests when system boots </br>
+--> Completed file system hierarchy , Types of package manager like RPM an DEBIAN , Redirecting stdout, VIM editors, Networking concepts DNS, switching and routing etc.</br>
+--> Completed 
