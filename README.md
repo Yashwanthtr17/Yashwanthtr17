@@ -73,3 +73,4 @@ Enrolled <b>Learning Linux Basics Course & Labs</b> Course on KodeKloud<br>
 --> Completed Linux kernel and some hardware commands lspci,lscpu,lshw,lsblk , and setting up graphical an default targests when system boots </br>
 --> Completed file system hierarchy , Types of package manager like RPM an DEBIAN , Redirecting stdout, VIM editors, Networking concepts DNS, switching and routing etc.</br>
 --> Completed Security and file permissions sudo ,su - permissions, access control files like grep -i bob etc/passwd,group,shadow, Managing users adding user deleting user , creating and deleting group.</br>
+--> Completed File permissions and ownerships like chown and chmod , secure shell(SSH)  commands for host switch with and without password by rsa key generation and secure copy protocol (SCP) in this learnt copy files from local system(client) to the server by using scp commands.</br>
