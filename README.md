@@ -79,3 +79,9 @@ Enrolled <b>Learning Linux Basics Course & Labs</b> Course on KodeKloud<br>
 --> Completed Intro to Systemd . Learnt about systemd tools like systemctl and journalctl, in that start,enable,disable,daemon-reload,status services learn to manage the service, and journalctl to monitor the issues.</br>
 --> Completed the disk partitions lsblk,fdisk,gdisk and completed the all task by hands on labs.</br>
 <h4> Completed Learning Linux Basics Course and Labs On KodeKloud, Instructor Mumshad Mannambeth On 17-09-2026</h4></br>
+--> Completed the revision of labs and concepts...</br>
+
+<h4>==>20-09-2026</h4>
+Enrolled <b>GIT for Beginners</b> Course on KodeKloud<br>
+<h6></h6>
+--> Completed
