@@ -84,4 +84,5 @@ Enrolled <b>Learning Linux Basics Course & Labs</b> Course on KodeKloud<br>
 <h4>==>20-09-2026</h4>
 Enrolled <b>GIT for Beginners</b> Course on KodeKloud<br>
 <h6></h6>
---> Completed
+--> Completed initialization ,adding name and mail of contributors,learnt some of basic git commands for working with projects like status,logs,hash codes,adding,commiting after staging etc ...</br>
+--> Completed 
