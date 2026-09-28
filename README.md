@@ -85,4 +85,5 @@ Enrolled <b>Learning Linux Basics Course & Labs</b> Course on KodeKloud<br>
 Enrolled <b>GIT for Beginners</b> Course on KodeKloud<br>
 <h6></h6>
 --> Completed initialization ,adding name and mail of contributors,learnt some of basic git commands for working with projects like status,logs,hash codes,adding,commiting after staging etc ...</br>
---> Completed 
+--> Completed creating branches, merging branches, Initializing remote repos,pushing to remote repos,cloning from remote,creating pull request to accept changes,assigning a developer for task for view and review.</br>
+--> Completed fetching and merging, resolved merge conflicts,Fork the repos,rebasing,resetting and reverting,stashing and its stack, reflog to bring back hard deleted commits etc...</br>
