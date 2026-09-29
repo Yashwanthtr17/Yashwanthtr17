@@ -87,3 +87,5 @@ Enrolled <b>GIT for Beginners</b> Course on KodeKloud<br>
 --> Completed initialization ,adding name and mail of contributors,learnt some of basic git commands for working with projects like status,logs,hash codes,adding,commiting after staging etc ...</br>
 --> Completed creating branches, merging branches, Initializing remote repos,pushing to remote repos,cloning from remote,creating pull request to accept changes,assigning a developer for task for view and review.</br>
 --> Completed fetching and merging, resolved merge conflicts,Fork the repos,rebasing,resetting and reverting,stashing and its stack, reflog to bring back hard deleted commits etc...</br>
+--> Once again gone through all labs and practised working with git with projects got hands on experience by solving the problems using lab.</br>
+<h4> Completed Git for Beginners On KodeKloud, Instructor Lydia Hallie On 29-09-2026</h4></br>
