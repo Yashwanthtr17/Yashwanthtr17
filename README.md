@@ -93,4 +93,7 @@ Enrolled <b>GIT for Beginners</b> Course on KodeKloud<br>
 <h4>==>02-10-2026</h4>
 Enrolled <b>Docker Training Course for the Absolute Beginner </b> Course on KodeKloud<br>
 <h6></h6>
--->Completed revision of earlier topics along with docker tocker topics.
+--> Completed revision of earlier topics along with docker tocker topics. </br>
+--> Completed container  vs VM's and images  and its differences, setup and installation of docker, learny basic docker commands, image tags , port mapping, volume and bind mounts , inspecting and logs.</br>
+--> Completed mannual deployment setup, scaffolding dockerfile, commands vs entry point, Docker compose, Deploying with docker run commands and modification of yaml file with key value pairs. </br>
+--> 
