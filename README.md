@@ -96,4 +96,10 @@ Enrolled <b>Docker Training Course for the Absolute Beginner </b> Course on Kode
 --> Completed revision of earlier topics along with docker tocker topics. </br>
 --> Completed container  vs VM's and images  and its differences, setup and installation of docker, learny basic docker commands, image tags , port mapping, volume and bind mounts , inspecting and logs.</br>
 --> Completed mannual deployment setup, scaffolding dockerfile, commands vs entry point, Docker compose, Deploying with docker run commands and modification of yaml file with key value pairs. </br>
---> 
+--> Completed docker engine storage, group resource limiting to avoid more space consumption , Docker storage[file data for docker image layer], Docker networking, Docker registry [to upload our own image to registry later can anybody use ].</br>
+--> Completed Basic understanding of container orchestration , basic understanding of Kubernetes , Basic Understanding of YAML.</br>
+<h4> Completed Git for Beginners On KodeKloud, Instructor Lydia Hallie On 18-10-2026</h4></br>
+
+
+
+
