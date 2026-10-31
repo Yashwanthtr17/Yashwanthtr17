@@ -101,5 +101,23 @@ Enrolled <b>Docker Training Course for the Absolute Beginner </b> Course on Kode
 <h4> Completed Docker Training Course for the Absolute Beginner On KodeKloud, Instructor Mumshad Mannambeth On 18-10-2026</h4></br>
 
 
+<h4>==>19-10-2026</h4>
+Enrolled <b>AWS For Beginners with Hands-On Labs </b> Course on KodeKloud<br>
+<h6></h6>
+--> Completed EC2 fundamentals.Learned how to launch and configure an EC2 instance. Explored instance types, key pairs, and security groups. Practiced connecting to an EC2 instance. </br>
+--> Completed Amazon S3 fundamentals, learned to create buckets and upload objects, explored storage classes, bucket permissions and versioning, and practiced configuring S3 event notifications with SNS.</br>
+--> Completed AWS Lambda fundamentals, learned how to create and configure Lambda functions, explored serverless computing and function execution, and practiced triggering Lambda functions using AWS services.</br>
+--> Completed AWS VPC fundamentals, learned how to create and configure Virtual Private Clouds, explored subnets, route tables, internet gateways, and security groups, and practiced understanding network connectivity and traffic flow within AWS.</br>
+--> Completed hands-on learning of Amazon RDS, including database instance creation, configuration, and connectivity. Explored managed relational databases, PostgreSQL, database security groups, and connecting applications to RDS instances.</br>
+--> Completed hands-on practice connecting an Amazon EC2 instance to an Amazon RDS PostgreSQL database. Learned database endpoint configuration, security group rules, port 5432 connectivity, and executing SQL queries from an EC2 server using the PostgreSQL. </br>
+--> Completed hands-on learning of Amazon DynamoDB, including creating and managing NoSQL tables, working with key-value data, understanding partition and sort keys, and retrieving stored records using Query and Scan operations.</br>
+--> Completed hands-on learning of AWS IAM, including creating and managing users, groups, and roles, attaching permission policies, and understanding identity and access management for securing AWS resources.</br>
+--> Completed hands-on learning of Amazon CloudWatch, including monitoring AWS resources, exploring metrics, configuring alarms, setting thresholds, and integrating SNS notifications for automated alerts.</br>
+--> Completed hands-on learning of AWS Elastic Load Balancing (ELB), exploring load balancer types, traffic distribution, target groups, and health checks to improve application availability and scalability across EC2 instances.</br>
+--> Completed hands-on learning of AWS SNS, SQS, and Lambda by building an event-driven image processing workflow. Configured S3 upload notifications through SNS, delivered messages to SQS, and triggered Lambda functions to process uploaded images into black-and-white and thumbnail versions, storing the processed images in separate S3 buckets.</br>
+<h4> Completed AWS for Beginners with Hands-On Labs on KodeKloud On 30-10-2026, instructed by Sanjeev Thiyagarajan</h4></br> 
+
+
+
 
 
