@@ -115,6 +115,7 @@ Enrolled <b>AWS For Beginners with Hands-On Labs </b> Course on KodeKloud<br>
 --> Completed hands-on learning of Amazon CloudWatch, including monitoring AWS resources, exploring metrics, configuring alarms, setting thresholds, and integrating SNS notifications for automated alerts.</br>
 --> Completed hands-on learning of AWS Elastic Load Balancing (ELB), exploring load balancer types, traffic distribution, target groups, and health checks to improve application availability and scalability across EC2 instances.</br>
 --> Completed hands-on learning of AWS SNS, SQS, and Lambda by building an event-driven image processing workflow. Configured S3 upload notifications through SNS, delivered messages to SQS, and triggered Lambda functions to process uploaded images into black-and-white and thumbnail versions, storing the processed images in separate S3 buckets.</br>
+--> Completed all labs revision once again and strengthened the hold on the topics.</br>
 <h4> Completed AWS for Beginners with Hands-On Labs on KodeKloud On 30-10-2026, instructed by Sanjeev Thiyagarajan</h4></br> 
 
 
