@@ -118,6 +118,16 @@ Enrolled <b>AWS For Beginners with Hands-On Labs </b> Course on KodeKloud<br>
 --> Completed all labs revision once again and strengthened the hold on the topics.</br>
 <h4> Completed AWS for Beginners with Hands-On Labs on KodeKloud On 30-10-2026, instructed by Sanjeev Thiyagarajan</h4></br> 
 
+<h4>==>01-11-2026</h4>
+Enrolled <b>Jenkins For Beginners </b> Course on KodeKloud<br>
+<h6></h6>
+--> Completed ,Downloading and setting up of Jenkins Server and UI, Understanding of CI/CD pipeline , what is jobs , builds , SCM in jenkins, nodes,pipeline,plugins , fingerprints etc...</br>
+--> Understnad the what is free style project and chained free style project and  pipelined project , Types of pipelined projects like Scripted and Declarative pipeline and learnt basic syntax of writing both scripts, understand the syntax of groovy. </br>
+--> Built an free style projects in jenkins UI successfully executed the project without error, and also built pipelined project without error.</br>
+--> Learnt the configure the artifacts in jenkins and executing pipeline script from github by creating Jenkinsfile, created a pipeline with the Blue ocean Graphical editor, Created a pipeline with parameter through Jenkin UI and pipeline script.</br>
+--> Completed Authorization and Authenticating the users and groups in Jenkins and created groups and users and managed the Authorization policy. Everything practiced Multiple times with hands on lab </br>
+<h4> Completed Jenkins For Beginners on KodeKloud On 15-11-2026, instructed by Barahalikar Siddharth</h4></br> 
+
 
 
 
